@@ -1,0 +1,13 @@
+{
+  "domain": "itsmarta",
+  "name": "MARTA",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/marta",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@grivers3"],
+  "iot_class": "cloud_polling"
+}

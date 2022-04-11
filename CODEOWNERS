@@ -517,6 +517,7 @@ build.json @home-assistant/supervisor
 /tests/components/iss/ @DurgNomis-drol
 /homeassistant/components/isy994/ @bdraco @shbatm
 /tests/components/isy994/ @bdraco @shbatm
+/homeassistant/components/itsmarta/ @grivers3
 /homeassistant/components/izone/ @Swamp-Ig
 /tests/components/izone/ @Swamp-Ig
 /homeassistant/components/jellyfin/ @j-stienstra

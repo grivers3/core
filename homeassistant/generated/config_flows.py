@@ -170,6 +170,7 @@ FLOWS = {
         "islamic_prayer_times",
         "iss",
         "isy994",
+        "itsmarta",
         "izone",
         "jellyfin",
         "juicenet",
